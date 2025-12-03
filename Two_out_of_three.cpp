@@ -1,3 +1,11 @@
+// Given three integer arrays nums1, nums2, and nums3, return a distinct array 
+// containing all the values that are present in at least two out of the 
+// three arrays. You may return the values in any order.
+
+// 3 december 
+// Time Complexity O(n²)
+
+
 
 #include<iostream>
 #include<vector>
@@ -55,4 +63,5 @@ int main() {
     cout << endl;
 
     return 0;
+
 }
