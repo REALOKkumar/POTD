@@ -31,5 +31,6 @@ int main(){
     Solution sol;
 
     cout<< sol.finalValueAfterOperations(op);
+    return 0;
 
 }
