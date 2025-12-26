@@ -14,12 +14,6 @@ public:
 
         }
 
-        
-
-
-
-
-        
         int start=0,end=nums.size()-1;
         if(nums.size()==0)start=end;
 
