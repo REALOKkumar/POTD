@@ -30,7 +30,7 @@ int main(){
     vector<int> temprature={73,74,75,71,69,72,76,73};
     vector<int> ans=sol.dailyTemperatures(temprature);
     for(int i:ans){
-    cout<<i;
+    cout<<i<<" ";
     }
 
     return 0;
