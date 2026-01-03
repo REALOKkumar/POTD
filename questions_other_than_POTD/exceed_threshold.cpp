@@ -20,3 +20,5 @@ int main(){
     cout<<sol.minOperations(nums,k);
     return 0;
 }
+
+
