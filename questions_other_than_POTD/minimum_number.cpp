@@ -39,18 +39,7 @@ public:
                 ptr2++;
             }
         }
-
-
-
-        
-    
-
-
-
-
         return ans;
-
-        
 
         
     }
