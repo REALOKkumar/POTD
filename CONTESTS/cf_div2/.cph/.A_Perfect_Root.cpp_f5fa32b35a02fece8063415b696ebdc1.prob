@@ -1,0 +1,1 @@
+{"name":"Local: A_Perfect_Root","url":"z:\\STUDY\\C++\\POTD\\CONTESTS\\cf_div2\\A_Perfect_Root.cpp","tests":[{"id":1768855604570,"input":"3\n1\n2\n5\n","output":"1\n2 4\n2 102 43 1 21"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"z:\\STUDY\\C++\\POTD\\CONTESTS\\cf_div2\\A_Perfect_Root.cpp","group":"local","local":true}
